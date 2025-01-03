@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+# This project contains a whole lot of things and more
+like syncfunsion a lovely framework that has a whole lot
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
