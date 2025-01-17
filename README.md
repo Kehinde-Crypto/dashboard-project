@@ -1,3 +1,4 @@
+# The project is all about the concept of using a beautful UI to be able to create an Admin dashboard using react 19 model , HTML CSS and Java Script ...
 # Getting Started with Create React App
 # This project contains a whole lot of things and more
 like syncfunsion a lovely framework that has a whole lot
